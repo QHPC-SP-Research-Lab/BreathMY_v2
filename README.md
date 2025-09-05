@@ -130,12 +130,7 @@ Distributed under the **MIT License**. See `LICENSE.txt` for more information.
 <a name="funding"></a>
 ## Funding
 
-This work was supported in part by the **PID2023-146520OB-{C21,C22}** funded by
-MICIU/AEI/10.13039/501100011033 and, as appropriate, by “ERDF A way of making
-Europe”, by “ERDF/EU”, by the “European Union” or by the “European Union
-NextGenerationEU/PRTR” and in part by **“REPERTORIUM”** Project under Grant Agreement
-**101095065**. Horizon Europe. Cluster II. Culture, Creativity and Inclusive society. Call
-HORIZON-CL2-2022-HERITAGE-01-02.
+This work was supported in part by the **PID2023-146520OB-{C21,C22}** funded by MICIU/AEI/10.13039/501100011033 and, as appropriate, by “ERDF A way of making Europe”, by “ERDF/EU”, by the “European Union” or by the “European Union NextGenerationEU/PRTR” and in part by **“REPERTORIUM”** Project under Grant Agreement **101095065**. Horizon Europe. Cluster II. Culture, Creativity and Inclusive society. Call HORIZON-CL2-2022-HERITAGE-01-02.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
