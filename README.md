@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h3 align="center">Respiratory Rate (RR) Database</h3>
@@ -47,8 +46,7 @@ The dataset includes:
 Each audio file is encoded in `.wav` format and follows the naming convention:
 
 
-DR_9RR_2023_03_15_4_A.wav
-
+<p align="center"><i>DR_9RR_2023_03_15_4_A.wav</i></p>
 
 
 Where:
@@ -132,8 +130,12 @@ Distributed under the **MIT License**. See `LICENSE.txt` for more information.
 <a name="funding"></a>
 ## Funding
 
-Supported in part by Grant **PID2023-146520OB-{C21,C22}** funded by MICIU/AEI and ERDF/European Union.  
-Also supported by **REPERTORIUM Project**, Grant Agreement 101095065, Horizon Europe, Cluster II.
+This work was supported in part by the **PID2023-146520OB-{C21,C22}** funded by
+MICIU/AEI/10.13039/501100011033 and, as appropriate, by “ERDF A way of making
+Europe”, by “ERDF/EU”, by the “European Union” or by the “European Union
+NextGenerationEU/PRTR” and in part by **“REPERTORIUM”** Project under Grant Agreement
+**101095065**. Horizon Europe. Cluster II. Culture, Creativity and Inclusive society. Call
+HORIZON-CL2-2022-HERITAGE-01-02.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
