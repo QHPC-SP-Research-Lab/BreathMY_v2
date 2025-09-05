@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<br />
 <div align="center">
   <h3 align="center">Respiratory Rate (RR) Database</h3>
 
@@ -24,7 +23,6 @@
     <li><a href="#funding">Funding</a></li>
   </ol>
 </details>
-<br>
 
 <!-- ABOUT THE DATABASE -->
 <a name="about-the-database"></a>
