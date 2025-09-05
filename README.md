@@ -105,7 +105,7 @@ For each mixture:
 - The type of noise is assigned randomly.
 - A random **60-second segment of noise** is extracted to ensure variability.  
 - A **balanced representation** of **all noise types** is maintained.
-- Noise segments used for training and testing are mutually exclusive, ensuring that no segment appears in both sets and thereby reducing the risk of overfitting.
+- **Noise segments** used for **training and testing** are **mutually exclusive**, ensuring that no segment appears in both sets and thereby reducing the risk of overfitting.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
