@@ -23,9 +23,10 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#funding">Funding</a></li>
   </ol>
+
+  <br />
 </details>
 
-<br />
 <!-- ABOUT THE DATABASE -->
 <a name="about-the-database"></a>
 ## About The Database
