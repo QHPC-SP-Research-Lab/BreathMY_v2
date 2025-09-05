@@ -15,9 +15,9 @@
   <ol>
     <li><a href="#about-the-database">About The Database</a></li>
     <li><a href="#file-format">File Format</a></li>
-    <li><a href="#dr-database">DR: Noise-Free Respiratory Signals</a></li>
-    <li><a href="#dsn-database">DSN: Additive White Gaussian Noise</a></li>
-    <li><a href="#dn-database">DN: Environmental Acoustic Noise</a></li>
+    <li><a href="#dr-database">DR: Database with Noise-Free Respiratory Signals</a></li>
+    <li><a href="#dsn-database">DSN: Database with Additive White Gaussian Noise</a></li>
+    <li><a href="#dn-database">DN: Database with Environmental Acoustic Noise</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#funding">Funding</a></li>
