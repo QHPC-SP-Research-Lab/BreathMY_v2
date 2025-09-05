@@ -25,6 +25,7 @@
   </ol>
 </details>
 
+<br />
 <!-- ABOUT THE DATABASE -->
 <a name="about-the-database"></a>
 ## About The Database
