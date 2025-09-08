@@ -93,7 +93,7 @@ AWGN uniformly affects all frequency components and represents a standard yet de
 <a name="dn-database"></a>
 ## DN: Database with Environmental Acoustic Noise
 
-[Access DN Database](https://drive.google.com/drive/folders/1E5yI39-tKG-zBOjmAwOT1L1q8A6j-6vs?usp=share_link)
+[Access DN Database](https://drive.google.com/drive/folders/1gQ0B10MKSHFOKdsBTHbUl5VlxLwpZGgS?usp=share_link)
 
 The DN dataset simulates real-world environments by adding **environmental acoustic noise** to each signal from DR at three SNR levels, containing a total of **7,650 signals** — that is, 2,550 respiratory signals mixed with environmental acoustic noise for each SNR level:
 
