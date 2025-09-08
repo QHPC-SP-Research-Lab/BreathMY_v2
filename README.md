@@ -77,6 +77,8 @@ The **DR** dataset consists of **2,550 respiratory signals**, each **60 seconds*
 <a name="dsn-database"></a>
 ## DSN: Database with Additive White Gaussian Noise
 
+[Access DSN Database](https://drive.google.com/drive/folders/1E5yI39-tKG-zBOjmAwOT1L1q8A6j-6vs?usp=share_link) 
+
 To evaluate the robustness of the methods under controlled noise conditions, the DSN dataset is generated from DR by adding AWGN to each signal in the DR database at three different SNR levels:
 
 - **DSN0 →** SNR = 0 dB  
@@ -90,6 +92,8 @@ AWGN uniformly affects all frequency components and represents a standard yet de
 <!-- DN DATABASE -->
 <a name="dn-database"></a>
 ## DN: Database with Environmental Acoustic Noise
+
+[Access DN Database]([Access DSN Database](https://drive.google.com/drive/folders/1E5yI39-tKG-zBOjmAwOT1L1q8A6j-6vs?usp=share_link) ) 
 
 The DN dataset simulates real-world environments by adding **environmental acoustic noise** to each signal from DR at three SNR levels, containing a total of **7,650 signals** — that is, 2,550 respiratory signals mixed with environmental acoustic noise for each SNR level:
 
