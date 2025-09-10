@@ -1,8 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h2 align="center">BreathMY_v2</h2>
-  <br />
+  <h1 align="center">BreathMY_v2</h1>
 
   [Access to the BreathMY_v2 Database](http://150.214.179.135:8080/share.cgi?ssid=b83962a55d324acbb834e4fc9f18e2f6)  
 
