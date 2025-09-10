@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">Respiratory Rate (RR) Database</h3>
+  <h3 align="center">BreathMY_v2</h3>
 
   <p align="center">
     An open-source audio database for respiratory rate (RR) estimation research
