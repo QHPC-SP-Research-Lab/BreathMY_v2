@@ -3,6 +3,8 @@
 <div align="center">
   <h3 align="center">BreathMY_v2</h3>
 
+  [Access BreathMY_v2 Database](http://150.214.179.135:8080/share.cgi?ssid=b83962a55d324acbb834e4fc9f18e2f6)  
+
   <p align="center">
     An open-source audio database for respiratory rate (RR) estimation research
     <br />
@@ -64,8 +66,6 @@ Where:
 <a name="dr-database"></a>
 ## DR: Database with Noise-Free Respiratory Signals  
 
-[Access DR Database](https://drive.google.com/drive/folders/1ObmdKZDi8tX96iIOhGfn05K5jSN-W1zb?usp=share_link)
-
 The **DR** dataset consists of **2,550 respiratory signals**, each **60 seconds** in **duration**. It was built using two data augmentation techniques applied to the pre-existing database:
 
 1. **Time Stretching (TS):** transforms signals with fast RR into signals with slower RR. It preserves the original waveform but increases the duration of each respiratory cycle. 
@@ -76,8 +76,6 @@ The **DR** dataset consists of **2,550 respiratory signals**, each **60 seconds*
 <!-- DSN DATABASE -->
 <a name="dsn-database"></a>
 ## DSN: Database with Additive White Gaussian Noise
-
-[Access DSN Database](https://drive.google.com/drive/folders/1E5yI39-tKG-zBOjmAwOT1L1q8A6j-6vs?usp=share_link) 
 
 To evaluate the robustness of the methods under controlled noise conditions, the DSN dataset is generated from DR by adding AWGN to each signal in the DR database at three different SNR levels:
 
@@ -92,8 +90,6 @@ AWGN uniformly affects all frequency components and represents a standard yet de
 <!-- DN DATABASE -->
 <a name="dn-database"></a>
 ## DN: Database with Environmental Acoustic Noise
-
-[Access DN Database](https://drive.google.com/drive/folders/1gQ0B10MKSHFOKdsBTHbUl5VlxLwpZGgS?usp=share_link)
 
 The DN dataset simulates real-world environments by adding **environmental acoustic noise** to each signal from DR at three SNR levels, containing a total of **7,650 signals** — that is, 2,550 respiratory signals mixed with environmental acoustic noise for each SNR level:
 
