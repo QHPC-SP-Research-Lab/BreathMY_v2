@@ -115,7 +115,8 @@ For each mixture:
 <a name="license"></a>
 ## License
 
-Distributed under the **MIT License**. See `LICENSE.txt` for more information.  
+This repository contains a **research dataset licensed** under **CC BY-NC 4.0**. See `LICENSE.txt` for more information.  
+**Commercial use is not permitted without explicit authorization from QHPC & SP Research Lab.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
