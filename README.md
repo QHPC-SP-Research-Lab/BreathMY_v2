@@ -22,6 +22,7 @@
     <li><a href="#dn-database">DN: Database with Environmental Acoustic Noise</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#citing">Citing</a></li>
     <li><a href="#funding">Funding</a></li>
   </ol>
 </details>
@@ -127,6 +128,14 @@ This repository contains a **research dataset licensed** under **CC BY-NC 4.0**.
 - Alejandro Antonio Salvador Navarro: salvador@ujaen.es  
 - Francisco Jesús Cañadas Quesada: fcanadas@ujaen.es  
 - Juan de la Torre Cruz: jtorre@ujaen.es  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CITING -->
+<a name="citing"></a>
+## Citing
+
+When using this dataset please cite the following publication “Respiratory rate estimation from breath sounds based on deep learning” as the source.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
