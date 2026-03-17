@@ -3,7 +3,7 @@
 <div align="center">
   <h1 align="center">BreathMY_v2</h1>
   
-  [Access to the BreathMY_v2 Database](https://www.myqnapcloud.com/share/603e551inp2m2685r841a8ac_3b9819ljjk3p226618v801624c3e274f?session_id=2%7C1%3A0%7C10%3A1758105935%7C19%3Asession_portal_goto%7C48%3AMjRkNzEwZGQtOTQ3Yy00MzZiLTkzYjQtNGQ2NzY5ZTM4ZGIx%7C215c05bfd451a22017b71d117b342696e300fce9cfd489d232eea811d67e3f69#!/home)  
+  [Access to the BreathMY_v2 Database](https://zenodo.org/records/18964276)  
 
   <p align="center">
     An open-source audio database for respiratory rate (RR) estimation research
@@ -135,7 +135,7 @@ This repository contains a **research dataset licensed** under **CC BY-NC 4.0**.
 <a name="citing"></a>
 ## Citing
 
-When using this dataset please cite the following publication “Respiratory rate estimation from breath sounds based on deep learning” as the source.
+When using this dataset, please cite the following publication: Salvador-Navarro, A., De La Torre-Cruz, J., Muñoz-Montoro, A. J., Ranilla-Cortina, S., Carabias-Orti, J. J., Cruz-Molina, J. M., & Cañadas-Quesada, F. J. (2026). Respiratory rate estimation from breath sounds based on deep learning*. Biomedical Signal Processing and Control, 119, 109905.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
