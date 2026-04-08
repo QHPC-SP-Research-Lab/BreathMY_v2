@@ -2,8 +2,9 @@
 
 <div align="center">
   <h1 align="center">BreathMY_v2</h1>
-  [Access to the BreathMY_v2 Dataset](https://zenodo.org/records/18964276)  
   <p align="center">
+  <a href="https://zenodo.org/records/18964276">Access to the BreathMY_v2 Dataset</a>
+  </p>
     An open-source audio dataset for respiratory rate (RR) estimation research
     <br />
   </p>
